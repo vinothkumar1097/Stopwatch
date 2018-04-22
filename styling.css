@@ -7,7 +7,7 @@ body{
     color: white;
 }
 
-/*Styling header section
+/*Styling header section*/
 #header{
     /*1vw = 1% of current screens width */
     font-size: 7vw; 
